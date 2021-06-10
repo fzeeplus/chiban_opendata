@@ -50,6 +50,12 @@ pdfファイル以外はzip形式で圧縮されたsim形式データです
 
 地番参考図（30年1月1日時点）
 
+## 兵庫県  
+### 宝塚市  
+
+[地番参考図閲覧ページ](http://www2.city.takarazuka.hyogo.jp/chibanzu/index.html) ```  
+ 
+
 ### 西宮市
 
 [にしのみやしWebGIS_地番参考図](https://webgis.nishi.or.jp/index.php#map_gname_15)
